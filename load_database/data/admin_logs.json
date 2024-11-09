@@ -1,0 +1,9 @@
+[
+    {
+        "admin_id": "ObjectId('507f1f77bcf86cd799439012')",
+        "action": "deactivate_user",
+        "target": "johndoe",
+        "details": "User deactivated due to inactivity.",
+        "timestamp": "2023-11-01T11:00:00Z"
+    }
+]
