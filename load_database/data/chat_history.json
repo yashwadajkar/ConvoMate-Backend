@@ -1,0 +1,20 @@
+[
+    {
+        "user_id": "ObjectId('507f1f77bcf86cd799439011')",
+        "session_id": "session_001",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Hello, how can you help me?",
+                "timestamp": "2023-11-01T10:45:00Z"
+            },
+            {
+                "role": "assistant",
+                "content": "I'm here to assist you with your documents.",
+                "timestamp": "2023-11-01T10:46:00Z"
+            }
+        ],
+        "created_at": "2023-11-01T10:45:00Z",
+        "updated_at": "2023-11-01T10:46:00Z"
+    }
+]
